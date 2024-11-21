@@ -11,7 +11,7 @@ export class NavComponent {
 links: Link[] = [
   {
       name: 'test',  
-          url : 'test'
+      url : 'test'
   }
 ]
 
